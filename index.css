@@ -1,0 +1,165 @@
+body{
+	background-color: #0387d1;
+	color: #fff;
+}
+
+.image{
+	width:350px;
+	margin-top: 3%;
+	margin-left : 2%;
+}
+.slogan{
+	font-size: 50px;
+	padding-left: 2%;
+	color: red;
+}
+.space{
+	height:30px
+}
+.describe{
+	font-size: 20px;
+	color:white;
+	padding-left: 2%	
+}
+.go{
+	display:inline-block;
+	height:30px;
+	width:20px;
+	cursor:pointer;
+	margin-top: 4px;
+}
+.people{
+	float:center;
+	text-align:center;
+	display:inline-block;
+}
+
+}
+.emailform{
+	flex-direction: column;
+	flex-flow: row wrap;
+	display:inline-block;
+	background-color: blue;
+	padding-left: 2%
+	text-decoration-color:white;
+	text-decoration-style: solid;
+}
+.getemail{
+	padding:2%;
+}
+.new{
+	font-size: 10px;
+	line-height: 1.3em;
+	transform-style:preserve-3d;
+}
+.input{
+	display: inline-block;
+    position: relative;
+    width: 100%;
+    max-width: 300px;
+    margin-top: 4px;
+    padding-right: 60px
+}
+.getemail{
+	padding-left:5px; 
+	padding: 15px;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    background-color: purple;
+    max-width: 350px;
+    min-width: 350px;
+}
+.leftman{
+	display:inline-block;
+	position:relative;
+	color:white;
+	width: 92%;
+	max-width: 320px;
+}
+
+.people{
+	width:54%;
+	float:right;
+	display:inline-block;
+	position: relative;
+}
+.base{
+	padding-left: 2%;
+	margin-top: 3px;
+	text-decoration-color: white;
+	text-decoration-style: solid;
+}
+.qr{
+   padding left: 2%;
+}
+.space{
+	height: 50px;
+}
+.space2{
+	height:50px;
+}
+.links.a{
+	display:inline-block;
+	position:relative;
+	text-decoration-color: white;
+	font-family: inherit;
+}
+.cursor{
+  display: inline-block;
+  background-color: red;
+  margin-left: 0.1rem;
+  width: 4px;
+  animation: blink 1s infinite;
+}
+.leftman{
+	position:relative;
+	width:800px;
+}
+.line{content:"";
+position: absolute;
+z-index: -1;
+top: -10px;
+left: 42%;
+height:600px;
+border-left: 3px dashed black;}
+
+.lmanalytics{
+	width: 210px;
+	top:-21%;
+	left:-1%;
+	
+}
+.lminvestments {
+    right: -20%;
+    width: 120px;
+}
+.lmforex{
+     width:150px;
+     right: -10%;
+}
+.lmsavings{
+	right:10px;
+	width:100px
+}
+.lmrewards{
+	width:100px;
+}
+.lmcards{
+   width:120px;
+}
+.lmpayments{
+    width:150px;
+}
+.lmloan{
+    width:180px;
+}
+.lmsupport{
+    width:210px
+}
+.lmimg{
+	height:500px;
+
+}
+.pic_man{
+	height:500px;
+}
